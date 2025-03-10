@@ -79,7 +79,7 @@ function calculadora() {
             break;
 
 
-    }
+    } 
 }
 calculadora();
 
